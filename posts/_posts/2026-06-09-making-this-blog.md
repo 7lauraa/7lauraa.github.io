@@ -1,4 +1,8 @@
-# making this blog
+---
+layout: post
+title:  "making this blog"
+---
+
 My new housemate, Alfie, runs a [pretty cool blog](https://blog.alifeee.net/) with a lot of updates on their personal projects and online projects, and it got me inspired to keep a similar blog of my happenings, I've always been a big fan of archiving everything I do, and keeping a blog will allow me to easily archive the processes I followed for my personal projects.
 ## research
 I've dabbled in web development before, as well as blogging, when I was younger I ran a terrible blog which I never archived that I mostly posted "Top 10" lists, terrible creepypastas that 12 year old me and my friend Joe wrote together, and other uninteresting things, I ran this original blog with [WordPress](www.wordpress.com) and thus began my research there.

@@ -1,6 +1,6 @@
-- name: posts
-  link: /posts
-- name: contact
+- name: /blog
+  link: /blog
+- name: /contact
   link: /contact
-- name: about
+- name: /
   link: /

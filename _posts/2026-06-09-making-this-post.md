@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "making this blog"
+description: "researching and making the blog you're currently reading"
 ---
 
 My new housemate, Alfie, runs a [pretty cool blog](https://blog.alifeee.net/) with a lot of updates on their personal projects and online projects, and it got me inspired to keep a similar blog of my happenings, I've always been a big fan of archiving everything I do, and keeping a blog will allow me to easily archive the processes I followed for my personal projects.

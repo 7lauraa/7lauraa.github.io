@@ -21,6 +21,9 @@ I started by editing the [_config.yml](https://github.com/7lauraa/7lauraa.github
 
 I attempted to channge how the site looked, before realising that I was out of my depth, so then I started work on this post that you're reading right now! Mostly so I could get a grip on how to create blog posts, and keep up with my markdown skills which generally are okay, but there are things I needed to search up, specifically whether it was `[]()` or `()[]` for hyperlinks, and which number of `#`'s created which level of heading.
 
+## rework
+I kinda didn't love Chad's blog template (no hate to him) so I moved to a different one that seemed a lot more customisable, called [lightspeed](https://github.com/tajacks/lightspeed), it was really simple to switch over, and using Github allowed me to download this blog post and upload it to the new layout easily!
+
 Regardless, I enjoyed the creation of the blog, and hopefully I will continue to write about my personal projects on here!
 
 Thanks for reading, Laura <3

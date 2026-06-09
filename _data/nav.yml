@@ -2,5 +2,7 @@
   link: /blog
 - name: /contact
   link: /contact
+- name: /recipes
+  link: /recipes
 - name: /
   link: /

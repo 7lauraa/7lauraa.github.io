@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "moving house"
-description: "i'm finally moving house this week"
+author: laura
 ---
 
 I'm finally moving, out of my parents house, out of the countryside, back to my home, Sheffield. It's been nearly 18 months since Emi and I broke up, when we split up I had no idea how hard it had become to live in modern society. Last I remember you could get a job, find a place to live, and make friends in a couple weeks, maybe a month? God what happened!!!!

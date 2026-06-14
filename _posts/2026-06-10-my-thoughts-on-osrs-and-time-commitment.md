@@ -1,6 +1,7 @@
 ---
 layout: post
 title: my thoughts on osrs and time commitment
+author: laura
 ---
 
 osrs is a game that is by design a large time commitment, i started playing in 2021 and in the 5 years since, i've sunk around 6000 hours, this means ive averaged 3.28 hours a day every day since i started playing. that's a crazy amount of time but it's important to recognise where most of that time was allotted

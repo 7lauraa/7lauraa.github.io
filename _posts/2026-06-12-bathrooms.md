@@ -1,6 +1,7 @@
 ---
 layout: post
 title: bathrooms
+author: laura
 ---
 
 when i go out, i hold my pee as long as i can, because my options are either to pee in the men's bathroom and fear for my life, or pee in the women's bathroom and be terrified of causing a woman to fear for her's.

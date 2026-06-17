@@ -4,5 +4,7 @@
   link: /contact
 - name: /recipes
   link: /recipes
+- name: /calendar
+  link: /calendar
 - name: /
   link: /

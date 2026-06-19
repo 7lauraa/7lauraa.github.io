@@ -40,8 +40,8 @@ i then cut 3 other pieces to size so that i could work on them without using the
 
 i arrived at hackspace and my first job was to use a circular saw ![circular saw](https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/circular-saw.jpg?raw=true) to cut my plank of wood into 4 more manageable pieces, i asked ellie to teach me how to use it, and she helped me to safely use the saw. i then spoke to alan, who is a lot more experienced in woodworking than i am, we spoke about how i planned to make my chessboard, and he explained to me an easier way to do what i was trying to do, using a table saw and a [crosscut sled](https://gist.github.com/7lauraa/c3cafb49a46e3a21ddd3881f1aafd8e0) (read the attached hyperlink for a slightly more detailed explanation of what that is and why it was useful).
 
-![crosscut sled](https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/crosscut-sled.jpg?raw=true)
+![crosscut sled](https://raw.githubusercontent.com/7lauraa/7lauraa.github.io/refs/heads/main/_posts/media/crosscut-sled.jpg)
 
 i used some scrap pieces of wood to adjust the crosscut sled to the size i wanted, which was 32mm (leaving space for sanding) and then got to sawing. i started by sawing each piece vertically to 32mm, and then did the same horizontally, using the next piece to push the last cut through to avoid bringing my fingers too close to the saw, and after around 20 minute we had between us cut just over 64 identical squares that i could then sand down to size. at this point, alfie and chester had gone home for the day, so i followed shortly after, the next day i would be able to go to the hackspace would be monday 22nd june 2026.
 
-[!squares cut](https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/squares-cut.jpg?raw=true)
+![squares cut]([https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/squares-cut.jpg?raw=true](https://raw.githubusercontent.com/7lauraa/7lauraa.github.io/refs/heads/main/_posts/media/squares-cut.jpg))

@@ -43,3 +43,5 @@ i arrived at hackspace and my first job was to use a circular saw ![circular saw
 ![crosscut sled](https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/crosscut-sled.jpg?raw=true)
 
 i used some scrap pieces of wood to adjust the crosscut sled to the size i wanted, which was 32mm (leaving space for sanding) and then got to sawing. i started by sawing each piece vertically to 32mm, and then did the same horizontally, using the next piece to push the last cut through to avoid bringing my fingers too close to the saw, and after around 20 minute we had between us cut just over 64 identical squares that i could then sand down to size. at this point, alfie and chester had gone home for the day, so i followed shortly after, the next day i would be able to go to the hackspace would be monday 22nd june 2026.
+
+[!squares cut](https://github.com/7lauraa/7lauraa.github.io/blob/main/_posts/media/squares-cut.jpg?raw=true)

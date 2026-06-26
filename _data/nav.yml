@@ -6,5 +6,7 @@
   link: /recipes
 - name: /calendar
   link: /calendar
+- name: /lastfm
+  link: /lastfm
 - name: /
   link: /

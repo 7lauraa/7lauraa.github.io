@@ -16,7 +16,7 @@ then make sure a yellow is in bottom left corner and do same
 t-perm
 
 headlights on left or nowhere
-`(R U R' U') (R' F R2 U') R' U' (R U R') F'`
+`(R U R' U') (R' F R2 U' R' U') (R U R') F'`
 
 uA-perm
 `R U' R U R U R U' R' U' R2`

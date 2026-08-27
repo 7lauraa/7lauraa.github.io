@@ -16,7 +16,13 @@ then make sure a yellow is in bottom left corner and do same
 t-perm
 
 headlights on left or nowhere
-`(SEXY) R' F R2 U' R' U' R U R' F'`
+`(R U R' U') (R' F R2 U') R' U' (R U R') F'`
 
 uA-perm
 `R U' R U R U R U' R' U' R2`
+
+opposite swap
+`(M2 U' M2) U2 (M2 U' M2)`
+
+left-back front-right swap
+`M' U' (M2 U' M2 U') M U2 M2`

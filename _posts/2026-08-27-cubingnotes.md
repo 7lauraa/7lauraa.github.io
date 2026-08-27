@@ -15,4 +15,8 @@ then make sure a yellow is in bottom left corner and do same
 
 t-perm
 
+headlights on left or nowhere
 `(SEXY) R' F R2 U' R' U' R U R' F'`
+
+uA-perm
+`R U' R U R U R U' R' U' R2`

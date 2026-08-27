@@ -11,7 +11,7 @@ if no corners have yellow do `R U R' U R U2 R'`
 
 then make sure a yellow is in bottom left corner and do same
 
-## oll
+## pll
 
 t-perm
 

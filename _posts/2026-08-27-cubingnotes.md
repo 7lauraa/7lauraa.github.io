@@ -25,4 +25,4 @@ opposite swap
 `(M2 U' M2) U2 (M2 U' M2)`
 
 left-back front-right swap
-`M' U' (M2 U' M2 U') M U2 M2`
+`M' U' (M2 U' M2 U') M' U2 M2`

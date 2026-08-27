@@ -13,9 +13,7 @@ then make sure a yellow is in bottom left corner and do same
 
 ## pll
 
-t-perm
-
-headlights on left or nowhere
+t-perm (headlights on left or nowhere)
 `(R U R' U') (R' F R2 U' R' U') (R U R') F'`
 
 uA-perm

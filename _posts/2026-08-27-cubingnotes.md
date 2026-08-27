@@ -19,7 +19,7 @@ headlights on left or nowhere
 `(R U R' U') (R' F R2 U' R' U') (R U R') F'`
 
 uA-perm
-`R U' R U R U R U' R' U' R2`
+`(R U') (R U R U) (R U' R' U') R2`
 
 opposite swap
 `(M2 U' M2) U2 (M2 U' M2)`

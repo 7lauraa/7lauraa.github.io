@@ -8,5 +8,7 @@
   link: /calendar
 - name: /lastfm
   link: /lastfm
+- name: /art
+  link: /art
 - name: /
   link: /
